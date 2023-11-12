@@ -40,7 +40,7 @@
 .leaf-1, .leaf-2{
     position: absolute;
     z-index: 0;
-    width: 120%;
+    width: 150%;
 }
 
 .leaf-1{
@@ -64,7 +64,7 @@
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    
+
     color: black;
     font-size: 20px;
     font-weight: 600;
